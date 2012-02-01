@@ -1,0 +1,8 @@
+Access Google Calculator from the command line.
+
+Inspired from a similar program written by Matt Sparks (http://quadpoint.org/).
+
+usage ./cli-gcalc.py "50 kilometers in feet"
+
+I recommend setting an alias.  For exapmle:
+alias c='/home/steve/src/cli-gcalc/cli-gcalc.py' 
