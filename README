@@ -2,6 +2,9 @@ Access Google Calculator from the command line.
 
 Inspired from a similar program written by Matt Sparks (http://quadpoint.org/).
 
+Requires demjson (http://deron.meranda.us/python/demjson/).
+"pip install demjson" or "easy_install demjson" or "apt-get install python-demjson"
+
 usage ./cli-gcalc.py "50 kilometers in feet"
 
 I recommend setting an alias.  For exapmle:
